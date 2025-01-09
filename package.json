@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "libsodium-wrappers": "^0.7.15",
+    "web3": "^1.7.0"
+  },
+  "name": "cokeeps",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
